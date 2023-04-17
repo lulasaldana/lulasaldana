@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'PRUEBASGITHUB'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8CCE617B6B4340D7A2CB6098FEB0373D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A98EB5BD02AD4D66A42C5DFC8D2A0921 }}
